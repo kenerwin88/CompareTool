@@ -1,0 +1,42 @@
+Application,Package,Stage01,Stage02,Production
+AchQueueProcessor,JAMS,NA,NA,\\devapp01\c$\Program Files (x86)\Angie's List\AchQueueProcessor
+ALRoot,TOP,\\stageal01\d$\Websites\ALRoot,\\stageal02\d$\Websites\ALRoot,\\angieslist01\d$\Websites\ALRoot
+ALSchedulerExecutioner,JAMS,NA,NA,\\devapp01\c$\Program Files (x86)\Angie's List\ALSchedulerExecutioner
+Angieslist,TOP,\\stageal01\d$\Websites\VSS\AngiesList,\\stageal02\d$\Websites\VSS\AngiesList,\\angieslist01\d$\Websites\VSS\Angieslist
+AtexBatchExport,JAMS,NA,NA,\\scheduler01\c$\Program Files (x86)\Angie's List\AtexBatchExport
+B2BInternalAPI,TOP,\\stageapps01\d$\Websites\VSS\B2BInternalAPI,\\stageapps02\d$\Websites\VSS\B2BInternalAPI,\\b2bintapi01\d$\Websites\VSS\B2BInternalAPI
+BusinessCenter,TOP,\\stagecompany01\d$\Websites\VSS\BusinessCenter,\\stagecompany02\d$\Websites\VSS\BusinessCenter,\\company01\d$\Websites\VSS\BusinessCenter
+BusinessCenterAPI,TOP,\\stagecompany01\d$\Websites\VSS\BusinessCenterAPI,\\stagecompany02\d$\Websites\VSS\BusinessCenterAPI,\\company01\d$\Websites\VSS\BusinessCenterAPI
+ContractInvoiceAutoRenewalProcessor,JAMS,NA,NA,\\devapp01\c$\Program Files (x86)\Angie's List\ContractInvoiceAutoRenewalProcessor
+DuplicateServiceProviderDestroyer,JAMS,NA,NA,\\scheduler01\c$\Program Files (x86)\Angie's List\DuplicateServiceProviderDestroyer
+EmailRouter,JAMS,NA,NA,\\scheduler01\c$\Program Files (x86)\Angie's List\EmailRouter
+FileManager,TOP,\\stageapps01\d$\Websites\VSS\FileManager,\\stageapps02\d$\Websites\VSS\FileManager,\\content\Y$\Websites\VSS\FileManager
+Finance,TOP,\\stagealtools01\d$\Websites\vss\Finance,\\stagealtools02\d$\Websites\vss\Finance,\\altools04\d$\Websites\VSS\Finance
+Join,TOP,\\stageal01\d$\Websites\VSS\Join,\\stageal02\d$\Websites\VSS\Join,\\angieslist01\d$\Websites\VSS\Join
+LoadServiceProviders,JAMS,NA,NA,\\scheduler01\c$\Program Files (x86)\Angie's List\Load Service Providers
+MailMadeSimple,TOP,\\stageapps01\d$\Websites\VSS\MailMadeSimple,\\stageapps02\d$\Websites\VSS\MailMadeSimple,NA
+MarketplacePostLocationUpdate,JAMS,NA,NA,\\scheduler01\c$\Program Files (x86)\Angie's List\MarketplacePostLocationUpdate
+MARTester,JAMS,NA,NA,\\devapp01\c$\Program Files (x86)\Angie's List\MARTester
+MediaTranscoder,JAMS,NA,NA,\\scheduler01\c$\Program Files (x86)\Angie's List\MediaTranscoder
+PaymentAuthorization,JAMS,\\stageapps01\d$\Websites\VSS\PaymentAuthorization,\\stageapps02\d$\Websites\VSS\PaymentAuthorization,\\devapp01\d$\Websites\vss\PaymentAuthorization
+QuickConnectMessenger,JAMS,NA,NA,\\scheduler01\c$\Program Files (x86)\Angie's List\QuickConnectMessenger
+RichReportStripper,JAMS,NA,NA,\\scheduler01\c$\Program Files (x86)\Angie's List\RichReportStripper
+RightNowBatchImport,JAMS,NA,NA,\\scheduler01\c$\Program Files (x86)\Angie's List\RightNowBatchImport
+ServiceProviderImport,JAMS,NA,NA,\\scheduler01\c$\Program Files (x86)\Angie's List\ServiceProviderImport
+Solr Bulk Loader,JAMS,NA,NA,\\scheduler01\c$\Program Files (x86)\Angie's List\Solr Bulk Loader
+StorefrontBigDealPaymentEngine,JAMS,NA,NA,\\scheduler01\c$\Program Files (x86)\Angie's List\StorefrontBigDealPaymentEngine
+StorefrontContractProcessor,JAMS,NA,NA,\\scheduler01\c$\Program Files (x86)\Angie's List\StorefrontContractProcessor
+StorefrontEmailEngine,JAMS,NA,NA,\\scheduler01\c$\Program Files (x86)\Angie's List\StorefrontEmailEngine
+StorefrontExistingOfferEligibilityValidator,JAMS,NA,NA,\\scheduler01\c$\Program Files (x86)\Angie's List\StorefrontExistingOfferEligibilityValidator
+StorefrontMemberActivity,JAMS,NA,NA,\\scheduler01\c$\Program Files (x86)\Angie's List\StorefrontMemberActivity
+StorefrontNotification,JAMS,NA,NA,\\scheduler01\c$\Program Files (x86)\Angie's List\StorefrontNotification
+StorefrontPaymentEngine,JAMS,NA,NA,\\scheduler01\c$\Program Files (x86)\Angie's List\StorefrontPaymentEngine
+StorefrontPaymentProcessor,JAMS,NA,NA,\\scheduler01\c$\Program Files (x86)\Angie's List\StorefrontPaymentProcessor
+StorefrontWeeklyPaymentEngine,JAMS,NA,NA,\\scheduler01\c$\Program Files (x86)\Angie's List\StorefrontWeeklyPaymentEngine
+TheBigDeal,TOP,\\stageal01\d$\Websites\VSS\TheBigDeal,\\stageal02\d$\Websites\VSS\TheBigDeal,\\angieslist01\d$\Websites\VSS\TheBigDeal
+Tools,TOP,\\stagealtools01\d$\Websites\vss\Tools,\\stagealtools02\d$\Websites\vss\Tools,\\altools04\d$\Websites\VSS\Tools
+Ubermail,TOP,\\stageapps01\d$\Websites\VSS\UberMail,\\stageapps02\d$\Websites\VSS\UberMail,\\devapp01\d$\Websites\vss\Ubermail
+VaultGuard,TOP,\\stagesecure01\d$\Websites\VSS\VaultGuard,\\stagesecure02\d$\Websites\VSS\VaultGuard,\\secure01\d$\Websites\VSS\VaultGuard
+Visitor,TOP,\\stageal01\d$\Websites\VSS\VisitorSite,\\stageal02\d$\Websites\VSS\VisitorSite,\\angieslist01\d$\Websites\VSS\VisitorSite
+WebAPI,TOP,\\stageapps01\d$\Websites\VSS\WebAPI,\\stageapps02\d$\Websites\VSS\WebAPI,\\webapi03\d$\Websites\VSS\WebApi
+WebHandlers,TOP,\\stageapps01\d$\Websites\VSS\WebHandlers,\\stageapps02\d$\Websites\VSS\WebHandlers,\\content\Y$\Websites\VSS\WebHandlers
